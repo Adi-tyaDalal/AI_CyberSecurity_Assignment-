@@ -142,7 +142,7 @@ Experiments are tracked in MLflow (`Credit Card Fraud Detection`); the final mod
 ## 7. Run & Deploy
 
 ```bash
-git clone https://github.com/KashishPundir/CreditCard-Fraud-Detection.git
+git clone https://github.com/Adi-tyaDalal/AI_CyberSecurity_Assignment-
 cd CreditCard-Fraud-Detection
 pip install -r requirements.txt
 
@@ -177,7 +177,7 @@ docker run -d --network fraud-network -p 8501:8501 fraud-detection-ui
 
 ## 9. Author
 
-**Kashish Pundir** · [GitHub](https://github.com/KashishPundir/CreditCard-Fraud-Detection)
+**Kashish Pundir** · [GitHub](https://github.com/Adi-tyaDalal/AI_CyberSecurity_Assignment-)
 
 *Fraud detection is about trade-offs, not accuracy — this project is built around making that trade-off explicit.*
 *If you found this useful, a ⭐ on the repo is appreciated.*
