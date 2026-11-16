@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection — End-to-End ML/MLOps System
+# 💳 Credit Card Fraud Detection
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white" />
@@ -177,7 +177,7 @@ docker run -d --network fraud-network -p 8501:8501 fraud-detection-ui
 
 ## 9. Author
 
-**Kashish Pundir** · [GitHub](https://github.com/Adi-tyaDalal/AI_CyberSecurity_Assignment-)
+**Aditya Dalal** · [GitHub](https://github.com/Adi-tyaDalal/AI_CyberSecurity_Assignment-)
 
 *Fraud detection is about trade-offs, not accuracy — this project is built around making that trade-off explicit.*
 *If you found this useful, a ⭐ on the repo is appreciated.*
